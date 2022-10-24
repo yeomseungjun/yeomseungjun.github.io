@@ -15,12 +15,12 @@
 minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "kr-KO" #en-US
-title                    : "Lucas | Yeom-seungjun"
-title_separator          : "-"
+locale                   : "ko-KR" #en-US
+title                    : "Lucas"
+title_separator          : "devlog"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Lucas"
-description              : "질문하는 자는 답을 피할 수 없다."
+description              : "궁금한건 못 참는 내 개발일지"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
