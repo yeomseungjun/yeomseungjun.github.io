@@ -1,29 +1,34 @@
 ---
-layout: post
-title:  "Welcome to Jekyll!"
+layout: archive
+title:  "GIT PAGES를 이용한 블로그 개설"
 date:   2022-10-12 16:07:59 +0900
-categories: jekyll update
+categories: make gitblog
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
-Jekyll requires blog post files to be named according to the following format:
+개발관련 블로그 개설을 원해서 알아보던 중 GIT PAGES를 이용한 블로그 개설이 눈에 들어왔습니다.
 
-`YEAR-MONTH-DAY-title.MARKUP`
+고려하던 선택지는 3개를 염두해두고 있었습니다.
+* 티스토리
+* 벨로그
+* 깃블로그
 
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+이중에 깃블로그를 선택한 이유는 여러가지 이유가 있지만, 가장 큰 이유는
 
-Jekyll also offers powerful support for code snippets:
+``` git을 이용해서 나만의 블로그를 만들다니, 이거 완전 유니크 하잖아? ```
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+라고, 생각했기 때문입니다.
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+그래서 무작정 만들어 보았지만 단점이 명확해서 벨로그를 사용하게 되었습니다.
+
+
+# [단점]
+1. 적용한 테마를 제대로 사용하기 위해서는 많은 시간이 필요하다.
+
+2. 원하는 개발은 Back-End 개발인데, 깃블로그를 사용하려면 Front-End 개발 능력이 필요하다.
+
+
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
 [jekyll-talk]: https://talk.jekyllrb.com/
+
