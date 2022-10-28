@@ -3,3 +3,9 @@ _site
 .jekyll-cache
 .jekyll-metadata
 #vendor
+
+# Node.js and NPM
+node_modules
+npm-debug.log*
+package-lock.json
+codekit-config.json
