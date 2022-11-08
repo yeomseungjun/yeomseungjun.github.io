@@ -4,7 +4,7 @@ excerpt: ""
 categories:
   - Git
 tags:
-  - [Git, Github]
+  - [Git, Github, Command]
 toc: true
 toc_sticky: false
 date: 2022-11-07

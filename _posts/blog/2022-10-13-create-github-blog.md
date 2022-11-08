@@ -1,10 +1,10 @@
 ---
-title: "[블로그] 깃블로그 생성"
+title: "[Blog] 깃블로그 생성"
 excerpt: ""
 categories:
   - Blog
 tags:
-  - [Blog, jekyll, Github]
+  - [Blog, jekyll, Github, minimal-mistake]
 toc: true
 toc_sticky: false
 date: 2022-10-13
