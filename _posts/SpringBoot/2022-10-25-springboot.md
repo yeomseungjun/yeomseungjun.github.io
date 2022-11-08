@@ -1,7 +1,7 @@
 ---
 title:  "[SpringBoot] 환경설정" 
 excerpt: ""
-ategories:
+categories:
   - SpringBoot
 tags:
   - [SpringBoot, Intelij]

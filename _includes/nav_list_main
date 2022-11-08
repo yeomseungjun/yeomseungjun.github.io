@@ -8,6 +8,16 @@
             📂 <span style="font-family:'KyoboHand';">전체 글 수</style> <span style="font-family:'Coming Soon';">{{sum}}</style> <span style="font-family:'KyoboHand';">개</style> 
       </li>
       <li>       
+        <span class="nav__sub-title">BackEnd</span>
+            <ul>
+                {% for category in site.categories %}
+                    {% if category[0] == "SpringBoot" %}
+                        <li><a href="/categories/spring-boot" class="">SpringBoot ({{category[1].size}})</a></li>
+                    {% endif %}
+                {% endfor %}
+            </ul>
+      </li>
+      <li>       
         <span class="nav__sub-title">etc</span>
             <ul>
                 {% for category in site.categories %}

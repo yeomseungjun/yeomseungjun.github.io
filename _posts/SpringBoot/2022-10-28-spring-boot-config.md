@@ -1,7 +1,7 @@
 ---
 title:  "[SpringBoot] 설정파일(application.yml)" 
 excerpt: ""
-ategories:
+categories:
   - SpringBoot
 tags:
   - [SpringBoot, Intelij, application.properties, application.yml, config]

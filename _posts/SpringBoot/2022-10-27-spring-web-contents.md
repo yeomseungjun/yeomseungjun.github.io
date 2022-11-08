@@ -1,7 +1,7 @@
 ---
 title:  "[SpringBoot] 정적 컨텐츠 / MVC / API" 
 excerpt: ""
-ategories:
+categories:
   - SpringBoot
 tags:
   - [SpringBoot, Intelij, 정적컨텐츠, MVC, API]
