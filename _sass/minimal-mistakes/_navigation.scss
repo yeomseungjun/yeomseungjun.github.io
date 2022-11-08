@@ -443,6 +443,13 @@
 
   a {
     color: inherit;
+    font-size: $type-size-3;
+    font-family: "KyoboHand";
+    color: mix(#fff,$primary-color,80%);
+
+    &:hover {
+      text-decoration: underline;
+    }
   }
 
   .active {
@@ -488,14 +495,23 @@
   font-weight: bold;
 }
 
+// .nav__sub-title {
+//   display: block;
+//   margin: 0.5rem 0;
+//   padding: 0.25rem 0;
+//   font-family: $sans-serif-narrow;
+//   font-size: $type-size-6;
+//   font-weight: bold;
+//   text-transform: uppercase;
+//   border-bottom: 1px solid $border-color;
+// }
 .nav__sub-title {
   display: block;
   margin: 0.5rem 0;
   padding: 0.25rem 0;
-  font-family: $sans-serif-narrow;
-  font-size: $type-size-6;
-  font-weight: bold;
-  text-transform: uppercase;
+  font-size: $type-size-3;
+  font-family: $serif;
+  color: mix(#fff,$primary-color,35%);
   border-bottom: 1px solid $border-color;
 }
 

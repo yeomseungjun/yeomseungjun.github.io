@@ -37,6 +37,7 @@
   font-size: $type-size-5;
   color: $muted-text-color;
   border-bottom: 1px solid $border-color;
+  font-family: $serif;
 
   + .list__item .archive__item-title {
     margin-top: 0.5em;
@@ -49,6 +50,8 @@
   line-height: initial;
   overflow: hidden;
   text-overflow: ellipsis;
+  font-family: $serif;
+  font-size: $type-size-4;
 
   a[rel="permalink"]::before {
     content: '';
