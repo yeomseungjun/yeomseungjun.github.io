@@ -1,14 +1,15 @@
 ---
-title:  "[Spring] 환경설정" 
-toc: false
+title:  "[SpringBoot] 환경설정" 
+excerpt: ""
+ategories:
+  - SpringBoot
+tags:
+  - [SpringBoot, Intelij]
+toc: true
 toc_sticky: false
 date: 2022-10-25
-categories:
-  - Spring
-tags:
-  - [Intelij, Spring, Spring Boot]
+last_modified_at: 2022-11-08
 ---
-
 
 ### Spring 환경설정
 

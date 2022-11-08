@@ -1,12 +1,14 @@
 ---
 title:  "[SpringBoot] 설정파일(application.yml)" 
-toc: false
-toc_sticky: false
-date: 2022-10-27
-categories:
+excerpt: ""
+ategories:
   - SpringBoot
 tags:
-  - [Intelij, Spring Boot, application.properties, application.yml, config]
+  - [SpringBoot, Intelij, application.properties, application.yml, config]
+toc: true
+toc_sticky: false
+date: 2022-10-25
+last_modified_at: 2022-11-08
 ---
 
 ## Spring Boot 설정파일 적용방법

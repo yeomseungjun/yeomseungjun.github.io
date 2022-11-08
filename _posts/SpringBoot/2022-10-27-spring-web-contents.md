@@ -1,12 +1,14 @@
 ---
-title:  "[Spring] 정적 컨텐츠 / MVC / API" 
-toc: false
-toc_sticky: false
-date: 2022-10-27
-categories:
-  - Spring
+title:  "[SpringBoot] 정적 컨텐츠 / MVC / API" 
+excerpt: ""
+ategories:
+  - SpringBoot
 tags:
-  - [Intelij, Spring, Spring Boot, 정적컨텐츠, MVC, API]
+  - [SpringBoot, Intelij, 정적컨텐츠, MVC, API]
+toc: true
+toc_sticky: false
+date: 2022-10-25
+last_modified_at: 2022-11-08
 ---
 
 # Spring Boot에서 Web Contents 종류
