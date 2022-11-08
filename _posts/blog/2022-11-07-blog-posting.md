@@ -1,10 +1,10 @@
 ---
-title: "[Github 블로그] 포스팅 하는 방법"
+title: "[블로그] 포스팅 하는 방법"
 excerpt: ""
 categories:
   - Blog
 tags:
-  - [Blog, jekyll, Github, Git]
+  - [Blog, jekyll, Github]
 toc: true
 toc_sticky: false
 date: 2022-11-07
