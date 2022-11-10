@@ -108,6 +108,14 @@ Stor와 같이 접속정보를 계속 유지하지만 `MAC OS에서 지원하는
 ``` sh
 # MAC Keychain 설정
 $ git config --global credential.helper osxkeychain
+
+# 적용 확인
+$ git config --global --list
+
+credential.helper=osxkeychain
+
+...
+
 ```
 
 ### 4. Credential `wincred` (Windows)
@@ -115,5 +123,13 @@ $ git config --global credential.helper osxkeychain
 
 ``` sh
 # Windows wincred 설정
-git config --global credential.helper wincred
+$ git config --global credential.helper wincred
+
+# 적용 확인
+$ git config --global --list
+
+credential.helper=wincred
+
+...
+
 ```
