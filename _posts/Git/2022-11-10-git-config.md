@@ -117,4 +117,3 @@ $ git config --global credential.helper osxkeychain
 # Windows wincred 설정
 git config --global credential.helper wincred
 ```
-asd
