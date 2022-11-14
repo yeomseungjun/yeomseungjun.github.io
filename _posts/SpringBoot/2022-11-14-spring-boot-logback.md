@@ -18,14 +18,13 @@ logback 설정은 `*.xml` 포맷이지만 `*.yml` 포멧도 지원한다. 기존
 
 > 참고로 package 단위의 log.level 설정이 되지 않았던 이유는 Logger 생성자를 잘못 입력했기 때문이다.  
 getSimpleName() 으로 생성해버리면 logger.name 설정의 패키지명으로 설정이 되지 않는다.
-``` java
 
+``` java
 // 기존 Logger 생성자
 private final Logger logger = LoggerFactory.getLogger(this.getClass().getSimpleName());
 
 // 수정
 > private final Logger logger = LoggerFactory.getLogger(this.getClass());
-
 ```
 
 ## 1. 기존 *.xml 설정
